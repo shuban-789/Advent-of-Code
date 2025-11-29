@@ -1,10 +1,10 @@
 package main
 
 import (
-   "fmt"
-   "bufio"
-   "os"
-   "strings"
+    "fmt"
+    "bufio"
+    "os"
+    "strings"
 )
 
 func horizontal(grid [][]string, x int, y int) int {

@@ -4,7 +4,7 @@ import (
     "fmt"
     "bufio"
     "os"
-	"strings"
+    "strings"
 )
 
 func check(grid [][]string, x int, y int) bool {
