@@ -4,7 +4,7 @@ college apps sadge
 
 ## Current Stats
 
-Stars: ⭐⭐⭐⭐⭐⭐⭐⭐
+Stars: 
 
 | Day | Status          |
 |-----|-----------------|
