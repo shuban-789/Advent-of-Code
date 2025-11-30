@@ -1,6 +1,6 @@
 # Advent of Code 2024 Solutions
 
-college apps :(
+college apps sadge
 
 ## Current Stats
 
