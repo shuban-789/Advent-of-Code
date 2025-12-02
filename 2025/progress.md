@@ -4,12 +4,12 @@ college apps sadge
 
 ## Current Stats
 
-Stars: 
+Stars: ⭐⭐⭐⭐
 
 | Day | Status          |
 |-----|-----------------|
-| 1   | Not Attempted   |
-| 2   | Not Attempted   |
+| 1   | Solved          |
+| 2   | Solved          |
 | 3   | Not Attempted   |
 | 4   | Not Attempted   |
 | 5   | Not Attempted   |
